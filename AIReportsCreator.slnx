@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AIReportsCreator.Core/AIReportsCreator.Core.csproj" />
+  <Project Path="AIReportsCreator.UI/AIReportsCreator.UI.csproj" />
+</Solution>

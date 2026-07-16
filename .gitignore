@@ -1,0 +1,10 @@
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.vscode/
+bin/
+obj/
+.nuget/
+packages/
+.DS_Store
